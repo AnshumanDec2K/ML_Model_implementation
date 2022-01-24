@@ -5,4 +5,4 @@ dectree_model: Implementation of "Decision tree" algorithm with accurary calcula
 
 linear_regression_model: Implementation of linear regression on USA_Housing.csv dataset.
 
-logostic_regression_model: Implementation of logistic regresssion on titanic_train.csv dataset.
+logistic_regression_model: Implementation of logistic regresssion on titanic_train.csv dataset.
