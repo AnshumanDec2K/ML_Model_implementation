@@ -7,4 +7,6 @@ linear_regression_model: Implementation of linear regression on USA_Housing.csv 
 
 logistic_regression_model: Implementation of logistic regresssion on titanic_train.csv dataset.
 
+knn_model: Implementation of K Nearest Neighbour on wisc_bc_data.csv dataset.
+
 Stay tuned for more......
