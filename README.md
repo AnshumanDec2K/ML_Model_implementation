@@ -9,6 +9,8 @@ logistic_regression_model: Implementation of logistic regresssion on titanic_tra
 
 knn_model: Implementation of K Nearest Neighbour on wisc_bc_data.csv dataset.
 
-svm_model1: Implementation of Support Vector Machine SVM on letterdata.csv dataset.
+svm_model1: Implementation of Support Vector Machine(SVM) on letterdata.csv dataset.
+
+svm_model2: Implementation of Support Vector Machine(SVM) using different kernels.
 
 Stay tuned for more......
