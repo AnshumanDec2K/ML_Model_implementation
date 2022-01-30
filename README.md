@@ -13,4 +13,6 @@ svm_model1: Implementation of Support Vector Machine(SVM) on letterdata.csv data
 
 svm_model2: Implementation of Support Vector Machine(SVM) using different kernels.
 
+naive_bayes_model: This notebook contains implementation of Naive Bayes on wine.xls
+
 Stay tuned for more......
