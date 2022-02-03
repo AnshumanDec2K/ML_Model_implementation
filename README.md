@@ -26,6 +26,11 @@ Implementation of ML models like Decision tree, Naive Bayes, Logistic Regression
 9) decision_tree_model2: Implementation of Decision tree on pima-indians-diabetes-1.data and the decision tree is in the diabetes_tree.dot and is as follows:
      
      ![graphviz](https://user-images.githubusercontent.com/91108386/152107094-b8e07db0-2bc9-4330-a3bd-311b8648b55e.png)
+ 
+10) ensemble_model1: Implementation of Ensemnle method on parkinson dataset available in the following link:
+                 https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data
+            
+ 
 
   
   
