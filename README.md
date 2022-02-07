@@ -32,6 +32,7 @@ Implementation of ML models like Decision tree, Naive Bayes, Logistic Regression
             
 11) bagging_boosting_model: Implementatioon of Bagging Boosting on "pima-indians-diabetes-1.data"
 
+12) bagging_boosting_ensemble_model: implementation of Bagging Boosting Ensemble method on "pima-indians-diabetes-1.data"
   
   
 
